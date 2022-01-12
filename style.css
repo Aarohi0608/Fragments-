@@ -1,0 +1,44 @@
+.heading{
+
+margin-top: 30px;
+margin-left: 180px;
+color: gold;
+
+}
+
+    .picture{
+
+margin-left: 250px;
+margin-top: 30px;
+
+
+    }
+    
+    .links{
+
+margin-left: 570px;
+margin-bottom: 30px;
+
+    }
+
+    body{
+    
+    background-color: black;
+    
+    }
+
+a:link{
+
+color: gold;
+text-decoration: gold;
+
+}
+
+a:visited{
+
+color: bisque;
+text-decoration: gold;
+
+}
+
+    
